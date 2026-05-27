@@ -1,6 +1,9 @@
 #include "data_feed.h"
 #include <algorithm>
 #include <cctype>
+#include <fstream>
+#include <sstream>
+#include <stdexcept>
 #include <string>
 #include <vector>
 
